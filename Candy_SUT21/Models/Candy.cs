@@ -7,7 +7,7 @@ namespace Candy_SUT21.Models
 {
     public class Candy
     {
-
+        // Candy
         public int CandyId { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
